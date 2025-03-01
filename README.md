@@ -52,8 +52,6 @@ Then, deploy the contents of the `dist` folder to any static hosting service (Ne
 ## 📖 Contributing
 Feel free to contribute by submitting pull requests or reporting issues. 
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ---
 **Made with ❤️ using React, TypeScript & Vite**
