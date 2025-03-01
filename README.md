@@ -9,11 +9,23 @@ A modern, high-performance React application built using **TypeScript, Vite, and
 - **Responsive Design** optimized for all screen sizes
 - **Optimized Performance** with code splitting and lazy loading
 
+## 📸 Screenshots
+![React](./images/react.png) 
+
+![React](./images/react2.png)
+
+![React](./images/react3.png) 
+
+![React](./images/react4.png) 
+
+![React](./images/react5.png) 
+
+
 ## 📦 Tech Stack
 - **Frontend:** React, TypeScript
 - **Build Tool:** Vite
 - **Animations:** Framer Motion
-- **Styling:** Tailwind CSS 
+- **Styling:** Tailwind CSS (if used)
 
 ## 🛠 Installation & Setup
 1. **Clone the repository**
@@ -40,6 +52,8 @@ Then, deploy the contents of the `dist` folder to any static hosting service (Ne
 ## 📖 Contributing
 Feel free to contribute by submitting pull requests or reporting issues. 
 
+## 📜 License
+This project is licensed under the **MIT License**.
 
 ---
 **Made with ❤️ using React, TypeScript & Vite**
